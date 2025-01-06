@@ -32,14 +32,6 @@
 			"[+1 Food] from [Wheat] tiles [in this city]"],
 		"requiredTech": "Pottery"
 	},
-	{
-		"name": "Shrine",
-		"faith": 1,
-		"cost": 40,
-		"maintenance": 1,
-		"requiredTech": "Pottery",
-		"uniques": ["Only available <when religion is enabled>"]
-	},
 	// Column 2
 	{
 		"name": "Stone Works",
