@@ -13,7 +13,7 @@
 		"leaderName": "Sir Henry Bowen",
 		"adjective": ["Queenslander"],
 		"startBias": ["Coast"],
-		"preferredVictoryType":"Diplomatic",
+		"preferredVictoryType":"TIme",
 		"personality": "Alexander",
 
 		"startIntroPart1": "Great King Alexander, leader of the mighty Greek nation, you are truly blessed by the gods. In 480 BC, quarrelsome city-states such as Athens, Sparta, Thebes, found a way to join their forces, allowing Greece to defeat the mighty Persia in the 5th century BC, both on land and sea. Following their example, you lead a Greek coalition and finally struck down the Persian Empire in 331 BC. You conquered almost all the known world, and from Europe to Africa to India, you built an empire unmatched by any before it.",
@@ -42,7 +42,7 @@
 		"leaderName": "Sir George Authur",
 		"adjective": ["Tasmainian"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Time",
 		"personality": "Elizabeth",
 
         "startIntroPart1": "Long live to Your Highness, Queen Elizabeth Gloriana, leader and protector of the glorious England! Through history, enduring many invasions, England strengthened its will, playing smartly with diplomacy, cunning, and military power, to eventually rose as one of the most dominant Empires the world has ever known. Their matchless navy, brilliant scientists and artists, and powerful merchants, have shaped the known world for centuries.",
@@ -68,7 +68,7 @@
 		"leaderName": "John Forrest",
 		"adjective": ["Western Australian"],
 		"startBias": ["Tundra"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Time",
 		"personality": "Catherine",
 
 
@@ -95,7 +95,7 @@
 		"name": "New South Wales",
 		"leaderName": "Authur Phillip",
 		"adjective": ["New South Welsh"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Time",
 		"personality": "George Washington",
 
         "startIntroPart1": "President Washington, we salute you and the proud American civilization! Freed from the British dominion in the 18th century, then cleansed and reborn after a terrible civil war, the United States nation was ready to play its great role in the 20th century. At the height of its power, triumphant after two terrible world wars, United States of America, a land of immigration, opportunities, optimism and determination, has risen above all other weakening nations, unable to equal such power.",
@@ -123,7 +123,7 @@
 		"name": "Victoria",
 		"leaderName": "Charles Hotham",
 		"adjective": ["Victorian"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Time",
 		"personality": "Darius I",
 
         "startIntroPart1": "Great King Darius of Persia, the heaven casts its light upon you! Persian people are strong and wise, as their leader. In old ages, the great Persian king Cyrus fought back the mighty Median empire and finally destroyed the Medes in 550 BC. Cunning diplomacy and military achievements helped then to conquer the wealthy Lydia and the powerful Babylon, Cyrus' son conquering the eternal Egypt some years later. At the height of its power, the Persian Empire reached the shores of Macedonia, at the very door of the upstart Greek city-states. Persia would have prospered for centuries if Alexander of Macedon hadn't brutally destroyed the great empire in one violent strike.",
@@ -152,7 +152,7 @@
 		"leaderName": "Charles Kingston",
 		"adjective": ["South Australian"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Time",
 		"personality": "William of Orange",
 
         "startIntroPart1": "Greetings to the wise and brave Prince William of Orange, who freed the Netherlands and gave strength to the Dutch people. In 1568, you led a rebellion against Spanish dominion, to gain freedom for your people, and therefore starting the Eighty Years' War. Your actions were all aimed to create one of Europe's first modern republics, the Seven United Provinces. The rebellion was the meaning of your very life and death, as it was also the cause of your assassination in 1584. But your death has given even more pride and courage to your people, to fight for liberty against any oppressors. Carved in history as the 'Father of the Fatherland', your name is a symbol of Dutch independence for eternity.",
